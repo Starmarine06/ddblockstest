@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_glow_lichen_east",
+  "textures": {
+    "lichen": "ddblockstest:block/mosslayer"
+  }
+}

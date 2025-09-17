@@ -1,0 +1,9 @@
+{
+  "parent": "ddblockstest:custom/moss_layer_2",
+  "textures": {
+    "all": "ddblockstest:block/texture",
+    "particle": "ddblockstest:block/texture",
+    "0": "ddblockstest:block/texture"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,11 @@
+{
+  "multipart": [
+    { "when": { "up": "true" },    "apply": { "model": "ddblockstest:block/mosslayer_up" } },
+    { "when": { "down": "true" },  "apply": { "model": "ddblockstest:block/mosslayer_down" } },
+    { "when": { "north": "true" }, "apply": { "model": "ddblockstest:block/mosslayer_down", "y": 0 } },
+    { "when": { "east": "true" },  "apply": { "model": "ddblockstest:block/mosslayer_down", "y": 90 } },
+    { "when": { "south": "true" }, "apply": { "model": "ddblockstest:block/mosslayer_down", "y": 180 } },
+    { "when": { "west": "true" },  "apply": { "model": "ddblockstest:block/mosslayer_down", "y": 270 } }
+
+  ]
+}
