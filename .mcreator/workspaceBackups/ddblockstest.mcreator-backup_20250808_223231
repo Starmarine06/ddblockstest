@@ -1,0 +1,161 @@
+{
+  "mod_elements": [
+    {
+      "name": "Mosslayer",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosslayer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ddblockstest/items/mosslayer.json",
+          "src/main/java/net/starmarine/ddblockstest/block/MosslayerBlock.java",
+          "src/main/resources/assets/ddblockstest/blockstates/mosslayer.json",
+          "src/main/resources/data/ddblockstest/loot_table/blocks/mosslayer.json",
+          "src/main/resources/assets/ddblockstest/models/item/mosslayer.json",
+          "src/main/resources/assets/ddblockstest/models/block/mosslayer.json"
+        ]
+      }
+    },
+    {
+      "name": "DDBlocks",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dd_blocks",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Mosslayer2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosslayer_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ddblockstest/models/item/mosslayer_2.json",
+          "src/main/resources/assets/ddblockstest/items/mosslayer_2.json",
+          "src/main/resources/assets/ddblockstest/models/block/mosslayer_2.json",
+          "src/main/java/net/starmarine/ddblockstest/block/Mosslayer2Block.java",
+          "src/main/resources/data/ddblockstest/loot_table/blocks/mosslayer_2.json",
+          "src/main/resources/assets/ddblockstest/blockstates/mosslayer_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Mosslayer3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosslayer_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ddblockstest/items/mosslayer_3.json",
+          "src/main/java/net/starmarine/ddblockstest/block/Mosslayer3Block.java",
+          "src/main/resources/assets/ddblockstest/models/block/mosslayer_3.json",
+          "src/main/resources/assets/ddblockstest/models/item/mosslayer_3.json",
+          "src/main/resources/assets/ddblockstest/blockstates/mosslayer_3.json",
+          "src/main/resources/data/ddblockstest/loot_table/blocks/mosslayer_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Mosslayer4",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosslayer_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ddblockstest/loot_table/blocks/mosslayer_4.json",
+          "src/main/resources/assets/ddblockstest/models/block/mosslayer_4.json",
+          "src/main/resources/assets/ddblockstest/blockstates/mosslayer_4.json",
+          "src/main/resources/assets/ddblockstest/items/mosslayer_4.json",
+          "src/main/resources/assets/ddblockstest/models/item/mosslayer_4.json",
+          "src/main/java/net/starmarine/ddblockstest/block/Mosslayer4Block.java"
+        ]
+      }
+    },
+    {
+      "name": "Mosslayer5",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosslayer_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/starmarine/ddblockstest/block/Mosslayer5Block.java",
+          "src/main/resources/assets/ddblockstest/items/mosslayer_5.json",
+          "src/main/resources/data/ddblockstest/loot_table/blocks/mosslayer_5.json",
+          "src/main/resources/assets/ddblockstest/models/item/mosslayer_5.json",
+          "src/main/resources/assets/ddblockstest/models/block/mosslayer_5.json",
+          "src/main/resources/assets/ddblockstest/blockstates/mosslayer_5.json"
+        ]
+      }
+    },
+    {
+      "name": "Mosslayer6",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosslayer_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ddblockstest/loot_table/blocks/mosslayer_6.json",
+          "src/main/resources/assets/ddblockstest/items/mosslayer_6.json",
+          "src/main/java/net/starmarine/ddblockstest/block/Mosslayer6Block.java",
+          "src/main/resources/assets/ddblockstest/models/item/mosslayer_6.json",
+          "src/main/resources/assets/ddblockstest/blockstates/mosslayer_6.json",
+          "src/main/resources/assets/ddblockstest/models/block/mosslayer_6.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.ddblockstest.mosslayer": "Moss Layer 1",
+      "item_group.ddblockstest.dd_blocks": "DD Blocks",
+      "item.ddblockstest.mosslayer_2": "Moss Layer 2",
+      "item.ddblockstest.mosslayer_3": "Moss Layer 3",
+      "item.ddblockstest.mosslayer_4": "Moss Layer 4",
+      "item.ddblockstest.mosslayer_5": "Moss Layer 5",
+      "item.ddblockstest.mosslayer_6": "Moss Layer 6"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/starmarine/ddblockstest/init/DdblockstestModTabs.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/net/starmarine/ddblockstest/DdblockstestMod.java",
+      "src/main/java/net/starmarine/ddblockstest/init/DdblockstestModBlocks.java",
+      "src/main/java/net/starmarine/ddblockstest/init/DdblockstestModItems.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ddblockstest",
+    "modName": "ddblockstest",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.4",
+    "modElementsPackage": "net.starmarine.ddblockstest"
+  },
+  "mcreatorVersion": 202500228610
+}

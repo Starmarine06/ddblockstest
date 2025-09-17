@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "tab",
+  "definition": {
+    "name": "DD Blocks",
+    "icon": {
+      "value": "Blocks.CAMPFIRE"
+    },
+    "showSearch": true
+  }
+}

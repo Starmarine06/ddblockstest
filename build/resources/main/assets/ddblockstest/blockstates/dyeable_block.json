@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ddblockstest:block/dyeable_block" }
+  }
+}
